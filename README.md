@@ -1,2 +1,2 @@
 # uac-node
-UniversalAC Server Node
+UniversalAC Node
